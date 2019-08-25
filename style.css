@@ -44,3 +44,15 @@ div {
     color: black;
     border: 2px solid black;
 }
+
+.radius:hover {
+    color: white;
+    background-color: black;
+    border: 2px solid lightseagreen;
+}
+
+div:hover {
+    color: black;
+    background-color: lightseagreen;
+    border: 2px solid black;
+}
