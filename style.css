@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn1 {
+    display: block;
+    margin: 50px auto;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border: 2px solid lightseagreen;
+
+
+}
+
+.conteiner {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    background-color: transparent;
+    border: 0;
+
+}
+
+div {
+    float: left;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border: 2px solid lightseagreen;
+    margin: 10px 10px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.radius {
+    border-radius: 50%;
+    background-color: lightseagreen;
+    color: black;
+    border: 2px solid black;
+}
