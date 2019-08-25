@@ -16,7 +16,7 @@
 
 }
 
-.conteiner {
+div.conteiner {
     width: 100vw;
     height: 100vh;
     display: block;
@@ -46,12 +46,12 @@ div {
 }
 
 .radius:hover {
-    color: white;
+    color: lightseagreen;
     background-color: black;
     border: 2px solid lightseagreen;
 }
 
-div~div:hover {
+div.container~div:hover {
     color: black;
     background-color: lightseagreen;
     border: 2px solid black;
